@@ -56,4 +56,4 @@ rails db:create db:migrate db:seed
 
 #Doc
 
-https://github.com/rohityadav905/appointment-system/blob/master/appintment-system.docx
+https://github.com/rohityadav905/user_appointment_system/blob/master/API_DOCUMENTATION.docx
